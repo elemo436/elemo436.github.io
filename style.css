@@ -137,61 +137,6 @@ form button:hover {
 .btn:hover {
   background: #005fa3;
 }
-/* Home Section Styles */
-#home {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100vh;
-  background: #f4f4f4;
-  text-align: center;
-  padding: 20px;
-}
-
-.home-container h1 {
-  font-size: 2.5rem;
-  margin-bottom: 10px;
-}
-
-.home-container h1 span {
-  color: #007bff; /* highlight your name */
-}
-
-.home-container h2 {
-  font-size: 1.5rem;
-  color: #555;
-  margin-bottom: 15px;
-}
-
-.home-container p {
-  font-size: 1rem;
-  color: #333;
-  max-width: 600px;
-  margin: 0 auto 20px;
-}
-
-.btn {
-  background: #007bff;
-  color: white;
-  padding: 10px 20px;
-  text-decoration: none;
-  border-radius: 8px;
-  transition: background 0.3s;
-}
-
-.btn:hover {
-  background: #0056b3;
-}
-
-
-
-
-
-
-
-
-
-
 
 
 
